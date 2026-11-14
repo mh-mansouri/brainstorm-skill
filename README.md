@@ -1,7 +1,7 @@
 # brainstorm: a planning-only skill for Claude Code
 
 A small [Claude Code skill](https://docs.claude.com/en/docs/claude-code/skills) for planning turns: ideas, strategy,
-choosing topics, a step plan or a calendar. It keeps planning and doing apart: the skill plans, a later turn does the work.
+choosing topics or a step plan. It keeps planning and doing apart: the skill plans, a later turn does the work.
 
 ## What it does
 

@@ -1,6 +1,6 @@
 ---
 name: brainstorm
-description: A planning turn - ideas, strategy, choosing topics, a step-by-step plan or a posting calendar - meant to run on a stronger planning model for this turn only. Use when the user types /brainstorm or when a turn is mainly planning. Not for execution (posting, clicking, rendering, code, deploys).
+description: A planning turn - ideas, strategy, choosing topics or a step-by-step plan - meant to run on a stronger planning model for this turn only. Use when the user types /brainstorm or when a turn is mainly planning. Not for execution (posting, clicking, rendering, code, deploys).
 model: opus
 effort: xhigh
 ---
